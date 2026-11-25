@@ -96,4 +96,3 @@ Com Python 3.10+ instalado, rode `python -m unittest discover -s tests -v`. Os t
 2. Completar os mapeamentos de histórico DBF (vendas, baixas, contas, caixa, cheques) a partir da cópia de produção e validar somas e saldos.
 3. Adicionar edição/cancelamento auditados, validações de transição de laboratório, segurança CSRF/limitação de tentativas, recuperação de senha e trilha de auditoria consultável.
 4. Exercitar a migração em cópia de homologação, comparar contagens e totais, testar restauração do backup e só então planejar a virada.
-
